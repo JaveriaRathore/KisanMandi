@@ -1,0 +1,2668 @@
+{
+  "users": [
+    {
+      "id": "usr-1",
+      "name": "Ghulam Rasool",
+      "phone": "0300-1234501",
+      "district": "Hyderabad",
+      "role": "Farmer"
+    },
+    {
+      "id": "usr-2",
+      "name": "Noor Muhammad",
+      "phone": "0300-1234502",
+      "district": "Sukkur",
+      "role": "Farmer"
+    },
+    {
+      "id": "usr-3",
+      "name": "Rais Ali",
+      "phone": "0300-1234503",
+      "district": "Mirpur Khas",
+      "role": "Farmer"
+    },
+    {
+      "id": "usr-4",
+      "name": "Sana Bibi",
+      "phone": "0300-1234504",
+      "district": "Nawabshah",
+      "role": "Farmer"
+    },
+    {
+      "id": "usr-5",
+      "name": "Tariq Ahmed",
+      "phone": "0300-1234505",
+      "district": "Karachi",
+      "role": "Buyer"
+    },
+    {
+      "id": "usr-6",
+      "name": "Ayesha Memon",
+      "phone": "0300-1234506",
+      "district": "Hyderabad",
+      "role": "Buyer"
+    },
+    {
+      "name": "Ghulam Rasool",
+      "phone": "03445566778",
+      "district": "Hyderabad",
+      "role": "Farmer",
+      "id": "bGJGLVa"
+    },
+    {
+      "name": "Javeria Rathore",
+      "phone": "0300 1234501",
+      "district": "Hyderabad",
+      "role": "Buyer",
+      "id": "YNyPgS1"
+    },
+    {
+      "name": "Javeria Rathore",
+      "phone": "0300 1234501",
+      "district": "Hyderabad",
+      "role": "Farmer",
+      "id": "z8hcn2T"
+    },
+    {
+      "name": "Ghulam Rasool",
+      "phone": "03445566778",
+      "district": "Hyderabad",
+      "role": "Farmer",
+      "id": "D9bbClE"
+    }
+  ],
+  "crops": [
+    {
+      "id": "crp-wheat",
+      "name": "Wheat",
+      "category": "Grain"
+    },
+    {
+      "id": "crp-rice",
+      "name": "Rice",
+      "category": "Grain"
+    },
+    {
+      "id": "crp-cotton",
+      "name": "Cotton",
+      "category": "Cash Crop"
+    },
+    {
+      "id": "crp-sugarcane",
+      "name": "Sugarcane",
+      "category": "Cash Crop"
+    },
+    {
+      "id": "crp-onion",
+      "name": "Onion",
+      "category": "Vegetable"
+    },
+    {
+      "id": "crp-tomato",
+      "name": "Tomato",
+      "category": "Vegetable"
+    },
+    {
+      "id": "crp-mango",
+      "name": "Mango",
+      "category": "Fruit"
+    },
+    {
+      "id": "crp-banana",
+      "name": "Banana",
+      "category": "Fruit"
+    }
+  ],
+  "markets": [
+    {
+      "id": "mkt-hyd",
+      "name": "Hyderabad Mandi",
+      "district": "Hyderabad"
+    },
+    {
+      "id": "mkt-skr",
+      "name": "Sukkur Mandi",
+      "district": "Sukkur"
+    },
+    {
+      "id": "mkt-khi",
+      "name": "Karachi Sabzi Mandi",
+      "district": "Karachi"
+    }
+  ],
+  "prices": [
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-10-23",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-23",
+      "price": 4000
+    },
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-10-24",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-24",
+      "price": 3944
+    },
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-10-25",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-25",
+      "price": 3966
+    },
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-10-26",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-26",
+      "price": 3938
+    },
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-10-27",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-27",
+      "price": 3839
+    },
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-10-28",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-28",
+      "price": 3852
+    },
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-10-29",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-29",
+      "price": 3802
+    },
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-10-30",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-30",
+      "price": 3796
+    },
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-10-31",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-31",
+      "price": 3847
+    },
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-11-01",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-01",
+      "price": 3918
+    },
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-11-02",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-02",
+      "price": 3866
+    },
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-11-03",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-03",
+      "price": 3826
+    },
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-11-04",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-04",
+      "price": 3883
+    },
+    {
+      "id": "price-crp-wheat-mkt-hyd-2026-11-05",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-05",
+      "price": 3954
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-10-23",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-10-23",
+      "price": 4140
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-10-24",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-10-24",
+      "price": 4203
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-10-25",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-10-25",
+      "price": 4166
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-10-26",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-10-26",
+      "price": 4275
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-10-27",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-10-27",
+      "price": 4336
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-10-28",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-10-28",
+      "price": 4339
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-10-29",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-10-29",
+      "price": 4283
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-10-30",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-10-30",
+      "price": 4359
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-10-31",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-10-31",
+      "price": 4325
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-11-01",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-11-01",
+      "price": 4296
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-11-02",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-11-02",
+      "price": 4323
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-11-03",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-11-03",
+      "price": 4319
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-11-04",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-11-04",
+      "price": 4247
+    },
+    {
+      "id": "price-crp-wheat-mkt-skr-2026-11-05",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-skr",
+      "date": "2026-11-05",
+      "price": 4369
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-10-23",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-10-23",
+      "price": 3900
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-10-24",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-10-24",
+      "price": 3944
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-10-25",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-10-25",
+      "price": 3902
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-10-26",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-10-26",
+      "price": 3856
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-10-27",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-10-27",
+      "price": 3831
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-10-28",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-10-28",
+      "price": 3760
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-10-29",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-10-29",
+      "price": 3839
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-10-30",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-10-30",
+      "price": 3803
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-10-31",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-10-31",
+      "price": 3902
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-11-01",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-11-01",
+      "price": 3963
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-11-02",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-11-02",
+      "price": 4041
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-11-03",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-11-03",
+      "price": 4009
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-11-04",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-11-04",
+      "price": 3941
+    },
+    {
+      "id": "price-crp-wheat-mkt-khi-2026-11-05",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-khi",
+      "date": "2026-11-05",
+      "price": 3928
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-10-23",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-23",
+      "price": 5200
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-10-24",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-24",
+      "price": 5342
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-10-25",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-25",
+      "price": 5335
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-10-26",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-26",
+      "price": 5302
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-10-27",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-27",
+      "price": 5378
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-10-28",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-28",
+      "price": 5525
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-10-29",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-29",
+      "price": 5428
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-10-30",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-30",
+      "price": 5309
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-10-31",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-31",
+      "price": 5288
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-11-01",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-01",
+      "price": 5185
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-11-02",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-02",
+      "price": 5310
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-11-03",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-03",
+      "price": 5446
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-11-04",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-04",
+      "price": 5478
+    },
+    {
+      "id": "price-crp-rice-mkt-hyd-2026-11-05",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-05",
+      "price": 5630
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-10-23",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-10-23",
+      "price": 5382
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-10-24",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-10-24",
+      "price": 5315
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-10-25",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-10-25",
+      "price": 5157
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-10-26",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-10-26",
+      "price": 5210
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-10-27",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-10-27",
+      "price": 5255
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-10-28",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-10-28",
+      "price": 5114
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-10-29",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-10-29",
+      "price": 4977
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-10-30",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-10-30",
+      "price": 5009
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-10-31",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-10-31",
+      "price": 4919
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-11-01",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-11-01",
+      "price": 5018
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-11-02",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-11-02",
+      "price": 4918
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-11-03",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-11-03",
+      "price": 4834
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-11-04",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-11-04",
+      "price": 4830
+    },
+    {
+      "id": "price-crp-rice-mkt-skr-2026-11-05",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "date": "2026-11-05",
+      "price": 4699
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-10-23",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-10-23",
+      "price": 5070
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-10-24",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-10-24",
+      "price": 5034
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-10-25",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-10-25",
+      "price": 5175
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-10-26",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-10-26",
+      "price": 5124
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-10-27",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-10-27",
+      "price": 5265
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-10-28",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-10-28",
+      "price": 5317
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-10-29",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-10-29",
+      "price": 5242
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-10-30",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-10-30",
+      "price": 5346
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-10-31",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-10-31",
+      "price": 5296
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-11-01",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-11-01",
+      "price": 5239
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-11-02",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-11-02",
+      "price": 5112
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-11-03",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-11-03",
+      "price": 5159
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-11-04",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-11-04",
+      "price": 5055
+    },
+    {
+      "id": "price-crp-rice-mkt-khi-2026-11-05",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-khi",
+      "date": "2026-11-05",
+      "price": 5064
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-10-23",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-23",
+      "price": 8500
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-10-24",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-24",
+      "price": 8328
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-10-25",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-25",
+      "price": 8469
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-10-26",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-26",
+      "price": 8298
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-10-27",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-27",
+      "price": 8267
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-10-28",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-28",
+      "price": 8051
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-10-29",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-29",
+      "price": 7833
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-10-30",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-30",
+      "price": 7988
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-10-31",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-31",
+      "price": 7810
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-11-01",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-01",
+      "price": 7596
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-11-02",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-02",
+      "price": 7723
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-11-03",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-03",
+      "price": 7807
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-11-04",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-04",
+      "price": 7954
+    },
+    {
+      "id": "price-crp-cotton-mkt-hyd-2026-11-05",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-05",
+      "price": 7985
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-10-23",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-10-23",
+      "price": 8798
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-10-24",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-10-24",
+      "price": 8929
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-10-25",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-10-25",
+      "price": 8682
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-10-26",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-10-26",
+      "price": 8562
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-10-27",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-10-27",
+      "price": 8424
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-10-28",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-10-28",
+      "price": 8643
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-10-29",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-10-29",
+      "price": 8404
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-10-30",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-10-30",
+      "price": 8153
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-10-31",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-10-31",
+      "price": 8220
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-11-01",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-11-01",
+      "price": 8289
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-11-02",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-11-02",
+      "price": 8086
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-11-03",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-11-03",
+      "price": 8046
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-11-04",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-11-04",
+      "price": 7917
+    },
+    {
+      "id": "price-crp-cotton-mkt-skr-2026-11-05",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-skr",
+      "date": "2026-11-05",
+      "price": 8132
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-10-23",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-10-23",
+      "price": 8288
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-10-24",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-10-24",
+      "price": 8460
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-10-25",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-10-25",
+      "price": 8453
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-10-26",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-10-26",
+      "price": 8648
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-10-27",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-10-27",
+      "price": 8516
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-10-28",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-10-28",
+      "price": 8409
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-10-29",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-10-29",
+      "price": 8652
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-10-30",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-10-30",
+      "price": 8656
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-10-31",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-10-31",
+      "price": 8699
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-11-01",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-11-01",
+      "price": 8648
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-11-02",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-11-02",
+      "price": 8479
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-11-03",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-11-03",
+      "price": 8370
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-11-04",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-11-04",
+      "price": 8122
+    },
+    {
+      "id": "price-crp-cotton-mkt-khi-2026-11-05",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "date": "2026-11-05",
+      "price": 8162
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-10-23",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-23",
+      "price": 900
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-10-24",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-24",
+      "price": 876
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-10-25",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-25",
+      "price": 895
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-10-26",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-26",
+      "price": 899
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-10-27",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-27",
+      "price": 880
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-10-28",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-28",
+      "price": 854
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-10-29",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-29",
+      "price": 855
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-10-30",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-30",
+      "price": 851
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-10-31",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-31",
+      "price": 866
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-11-01",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-01",
+      "price": 874
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-11-02",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-02",
+      "price": 883
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-11-03",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-03",
+      "price": 894
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-11-04",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-04",
+      "price": 907
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-hyd-2026-11-05",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-05",
+      "price": 918
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-10-23",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-10-23",
+      "price": 931
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-10-24",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-10-24",
+      "price": 946
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-10-25",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-10-25",
+      "price": 939
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-10-26",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-10-26",
+      "price": 911
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-10-27",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-10-27",
+      "price": 910
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-10-28",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-10-28",
+      "price": 911
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-10-29",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-10-29",
+      "price": 925
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-10-30",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-10-30",
+      "price": 929
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-10-31",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-10-31",
+      "price": 906
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-11-01",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-11-01",
+      "price": 885
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-11-02",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-11-02",
+      "price": 878
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-11-03",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-11-03",
+      "price": 861
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-11-04",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-11-04",
+      "price": 835
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-skr-2026-11-05",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-skr",
+      "date": "2026-11-05",
+      "price": 821
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-10-23",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-10-23",
+      "price": 878
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-10-24",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-10-24",
+      "price": 872
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-10-25",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-10-25",
+      "price": 871
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-10-26",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-10-26",
+      "price": 875
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-10-27",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-10-27",
+      "price": 883
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-10-28",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-10-28",
+      "price": 878
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-10-29",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-10-29",
+      "price": 895
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-10-30",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-10-30",
+      "price": 905
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-10-31",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-10-31",
+      "price": 895
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-11-01",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-11-01",
+      "price": 907
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-11-02",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-11-02",
+      "price": 893
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-11-03",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-11-03",
+      "price": 888
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-11-04",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-11-04",
+      "price": 897
+    },
+    {
+      "id": "price-crp-sugarcane-mkt-khi-2026-11-05",
+      "crop_id": "crp-sugarcane",
+      "market_id": "mkt-khi",
+      "date": "2026-11-05",
+      "price": 873
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-10-23",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-23",
+      "price": 3200
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-10-24",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-24",
+      "price": 3230
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-10-25",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-25",
+      "price": 3307
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-10-26",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-26",
+      "price": 3300
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-10-27",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-27",
+      "price": 3299
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-10-28",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-28",
+      "price": 3247
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-10-29",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-29",
+      "price": 3182
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-10-30",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-30",
+      "price": 3192
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-10-31",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-31",
+      "price": 3162
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-11-01",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-01",
+      "price": 3247
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-11-02",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-02",
+      "price": 3277
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-11-03",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-03",
+      "price": 3237
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-11-04",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-04",
+      "price": 3256
+    },
+    {
+      "id": "price-crp-onion-mkt-hyd-2026-11-05",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-05",
+      "price": 3188
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-10-23",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-10-23",
+      "price": 3312
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-10-24",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-10-24",
+      "price": 3401
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-10-25",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-10-25",
+      "price": 3403
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-10-26",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-10-26",
+      "price": 3328
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-10-27",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-10-27",
+      "price": 3411
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-10-28",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-10-28",
+      "price": 3402
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-10-29",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-10-29",
+      "price": 3346
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-10-30",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-10-30",
+      "price": 3446
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-10-31",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-10-31",
+      "price": 3378
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-11-01",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-11-01",
+      "price": 3325
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-11-02",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-11-02",
+      "price": 3262
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-11-03",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-11-03",
+      "price": 3335
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-11-04",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-11-04",
+      "price": 3401
+    },
+    {
+      "id": "price-crp-onion-mkt-skr-2026-11-05",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-skr",
+      "date": "2026-11-05",
+      "price": 3327
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-10-23",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-10-23",
+      "price": 3120
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-10-24",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-10-24",
+      "price": 3085
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-10-25",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-10-25",
+      "price": 3091
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-10-26",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-10-26",
+      "price": 3068
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-10-27",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-10-27",
+      "price": 3081
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-10-28",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-10-28",
+      "price": 3052
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-10-29",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-10-29",
+      "price": 3008
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-10-30",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-10-30",
+      "price": 2954
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-10-31",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-10-31",
+      "price": 2908
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-11-01",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-11-01",
+      "price": 2980
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-11-02",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-11-02",
+      "price": 2940
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-11-03",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-11-03",
+      "price": 2891
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-11-04",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-11-04",
+      "price": 2913
+    },
+    {
+      "id": "price-crp-onion-mkt-khi-2026-11-05",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-khi",
+      "date": "2026-11-05",
+      "price": 2882
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-10-23",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-23",
+      "price": 4500
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-10-24",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-24",
+      "price": 4377
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-10-25",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-25",
+      "price": 4458
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-10-26",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-26",
+      "price": 4487
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-10-27",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-27",
+      "price": 4497
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-10-28",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-28",
+      "price": 4429
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-10-29",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-29",
+      "price": 4472
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-10-30",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-30",
+      "price": 4511
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-10-31",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-31",
+      "price": 4429
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-11-01",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-01",
+      "price": 4438
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-11-02",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-02",
+      "price": 4439
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-11-03",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-03",
+      "price": 4434
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-11-04",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-04",
+      "price": 4546
+    },
+    {
+      "id": "price-crp-tomato-mkt-hyd-2026-11-05",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-05",
+      "price": 4598
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-10-23",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-10-23",
+      "price": 4658
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-10-24",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-10-24",
+      "price": 4593
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-10-25",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-10-25",
+      "price": 4506
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-10-26",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-10-26",
+      "price": 4549
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-10-27",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-10-27",
+      "price": 4576
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-10-28",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-10-28",
+      "price": 4661
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-10-29",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-10-29",
+      "price": 4638
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-10-30",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-10-30",
+      "price": 4561
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-10-31",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-10-31",
+      "price": 4652
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-11-01",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-11-01",
+      "price": 4698
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-11-02",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-11-02",
+      "price": 4832
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-11-03",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-11-03",
+      "price": 4807
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-11-04",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-11-04",
+      "price": 4688
+    },
+    {
+      "id": "price-crp-tomato-mkt-skr-2026-11-05",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-skr",
+      "date": "2026-11-05",
+      "price": 4820
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-10-23",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-10-23",
+      "price": 4388
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-10-24",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-10-24",
+      "price": 4487
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-10-25",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-10-25",
+      "price": 4494
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-10-26",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-10-26",
+      "price": 4503
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-10-27",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-10-27",
+      "price": 4587
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-10-28",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-10-28",
+      "price": 4453
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-10-29",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-10-29",
+      "price": 4514
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-10-30",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-10-30",
+      "price": 4549
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-10-31",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-10-31",
+      "price": 4456
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-11-01",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-11-01",
+      "price": 4549
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-11-02",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-11-02",
+      "price": 4582
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-11-03",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-11-03",
+      "price": 4548
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-11-04",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-11-04",
+      "price": 4567
+    },
+    {
+      "id": "price-crp-tomato-mkt-khi-2026-11-05",
+      "crop_id": "crp-tomato",
+      "market_id": "mkt-khi",
+      "date": "2026-11-05",
+      "price": 4698
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-10-23",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-23",
+      "price": 7200
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-10-24",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-24",
+      "price": 7233
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-10-25",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-25",
+      "price": 7212
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-10-26",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-26",
+      "price": 7032
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-10-27",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-27",
+      "price": 7205
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-10-28",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-28",
+      "price": 7320
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-10-29",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-29",
+      "price": 7269
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-10-30",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-30",
+      "price": 7338
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-10-31",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-31",
+      "price": 7330
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-11-01",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-01",
+      "price": 7463
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-11-02",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-02",
+      "price": 7389
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-11-03",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-03",
+      "price": 7537
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-11-04",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-04",
+      "price": 7742
+    },
+    {
+      "id": "price-crp-mango-mkt-hyd-2026-11-05",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-05",
+      "price": 7637
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-10-23",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-10-23",
+      "price": 7452
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-10-24",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-10-24",
+      "price": 7425
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-10-25",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-10-25",
+      "price": 7402
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-10-26",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-10-26",
+      "price": 7578
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-10-27",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-10-27",
+      "price": 7451
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-10-28",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-10-28",
+      "price": 7278
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-10-29",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-10-29",
+      "price": 7402
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-10-30",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-10-30",
+      "price": 7257
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-10-31",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-10-31",
+      "price": 7261
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-11-01",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-11-01",
+      "price": 7252
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-11-02",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-11-02",
+      "price": 7330
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-11-03",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-11-03",
+      "price": 7133
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-11-04",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-11-04",
+      "price": 7268
+    },
+    {
+      "id": "price-crp-mango-mkt-skr-2026-11-05",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-skr",
+      "date": "2026-11-05",
+      "price": 7266
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-10-23",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-10-23",
+      "price": 7020
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-10-24",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-10-24",
+      "price": 7084
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-10-25",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-10-25",
+      "price": 7024
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-10-26",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-10-26",
+      "price": 7146
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-10-27",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-10-27",
+      "price": 7085
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-10-28",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-10-28",
+      "price": 7019
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-10-29",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-10-29",
+      "price": 7024
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-10-30",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-10-30",
+      "price": 6956
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-10-31",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-10-31",
+      "price": 6915
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-11-01",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-11-01",
+      "price": 6737
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-11-02",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-11-02",
+      "price": 6611
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-11-03",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-11-03",
+      "price": 6429
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-11-04",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-11-04",
+      "price": 6450
+    },
+    {
+      "id": "price-crp-mango-mkt-khi-2026-11-05",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "date": "2026-11-05",
+      "price": 6422
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-10-23",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-23",
+      "price": 3800
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-10-24",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-24",
+      "price": 3739
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-10-25",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-25",
+      "price": 3714
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-10-26",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-26",
+      "price": 3711
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-10-27",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-27",
+      "price": 3801
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-10-28",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-28",
+      "price": 3864
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-10-29",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-29",
+      "price": 3930
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-10-30",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-30",
+      "price": 3959
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-10-31",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-10-31",
+      "price": 4058
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-11-01",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-01",
+      "price": 4122
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-11-02",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-02",
+      "price": 4230
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-11-03",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-03",
+      "price": 4320
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-11-04",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-04",
+      "price": 4339
+    },
+    {
+      "id": "price-crp-banana-mkt-hyd-2026-11-05",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-hyd",
+      "date": "2026-11-05",
+      "price": 4427
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-10-23",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-10-23",
+      "price": 3933
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-10-24",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-10-24",
+      "price": 4035
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-10-25",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-10-25",
+      "price": 4055
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-10-26",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-10-26",
+      "price": 4093
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-10-27",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-10-27",
+      "price": 4202
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-10-28",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-10-28",
+      "price": 4280
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-10-29",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-10-29",
+      "price": 4324
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-10-30",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-10-30",
+      "price": 4337
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-10-31",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-10-31",
+      "price": 4363
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-11-01",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-11-01",
+      "price": 4308
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-11-02",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-11-02",
+      "price": 4279
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-11-03",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-11-03",
+      "price": 4368
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-11-04",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-11-04",
+      "price": 4386
+    },
+    {
+      "id": "price-crp-banana-mkt-skr-2026-11-05",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-skr",
+      "date": "2026-11-05",
+      "price": 4357
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-10-23",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-10-23",
+      "price": 3705
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-10-24",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-10-24",
+      "price": 3749
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-10-25",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-10-25",
+      "price": 3760
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-10-26",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-10-26",
+      "price": 3795
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-10-27",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-10-27",
+      "price": 3718
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-10-28",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-10-28",
+      "price": 3637
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-10-29",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-10-29",
+      "price": 3646
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-10-30",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-10-30",
+      "price": 3664
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-10-31",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-10-31",
+      "price": 3735
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-11-01",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-11-01",
+      "price": 3764
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-11-02",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-11-02",
+      "price": 3853
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-11-03",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-11-03",
+      "price": 3844
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-11-04",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-11-04",
+      "price": 3902
+    },
+    {
+      "id": "price-crp-banana-mkt-khi-2026-11-05",
+      "crop_id": "crp-banana",
+      "market_id": "mkt-khi",
+      "date": "2026-11-05",
+      "price": 3825
+    }
+  ],
+  "listings": [
+    {
+      "id": "lst-001",
+      "user_id": "usr-1",
+      "crop_id": "crp-wheat",
+      "quantity": 20,
+      "asking_price": 3594,
+      "district": "Hyderabad",
+      "grade": "A",
+      "available_from": "2026-11-05",
+      "status": "Sold"
+    },
+    {
+      "id": "lst-002",
+      "user_id": "usr-2",
+      "crop_id": "crp-rice",
+      "quantity": 25,
+      "asking_price": 4772,
+      "district": "Sukkur",
+      "grade": "B",
+      "available_from": "2026-11-06",
+      "status": "Sold"
+    },
+    {
+      "id": "lst-003",
+      "user_id": "usr-1",
+      "crop_id": "crp-cotton",
+      "quantity": 30,
+      "asking_price": 7850,
+      "district": "Hyderabad",
+      "grade": "C",
+      "available_from": "2026-11-07",
+      "status": "Active"
+    },
+    {
+      "id": "lst-004",
+      "user_id": "usr-4",
+      "crop_id": "crp-sugarcane",
+      "quantity": 35,
+      "asking_price": 871,
+      "district": "Nawabshah",
+      "grade": "A",
+      "available_from": "2026-11-05",
+      "status": "Active"
+    },
+    {
+      "id": "lst-005",
+      "user_id": "usr-1",
+      "crop_id": "crp-onion",
+      "quantity": 40,
+      "asking_price": 3226,
+      "district": "Hyderabad",
+      "grade": "B",
+      "available_from": "2026-11-06",
+      "status": "Active"
+    },
+    {
+      "id": "lst-006",
+      "user_id": "usr-2",
+      "crop_id": "crp-tomato",
+      "quantity": 45,
+      "asking_price": 5035,
+      "district": "Sukkur",
+      "grade": "C",
+      "available_from": "2026-11-07",
+      "status": "Active"
+    },
+    {
+      "id": "lst-007",
+      "user_id": "usr-1",
+      "crop_id": "crp-mango",
+      "quantity": 50,
+      "asking_price": 7961,
+      "district": "Hyderabad",
+      "grade": "A",
+      "available_from": "2026-11-05",
+      "status": "Active"
+    },
+    {
+      "id": "lst-008",
+      "user_id": "usr-4",
+      "crop_id": "crp-banana",
+      "quantity": 55,
+      "asking_price": 3699,
+      "district": "Nawabshah",
+      "grade": "B",
+      "available_from": "2026-11-06",
+      "status": "Active"
+    },
+    {
+      "id": "lst-009",
+      "user_id": "usr-1",
+      "crop_id": "crp-wheat",
+      "quantity": 60,
+      "asking_price": 3798,
+      "district": "Hyderabad",
+      "grade": "C",
+      "available_from": "2026-11-07",
+      "status": "Active"
+    },
+    {
+      "id": "lst-010",
+      "user_id": "usr-2",
+      "crop_id": "crp-rice",
+      "quantity": 65,
+      "asking_price": 4977,
+      "district": "Sukkur",
+      "grade": "A",
+      "available_from": "2026-11-05",
+      "status": "Active"
+    },
+    {
+      "id": "lst-011",
+      "user_id": "usr-3",
+      "crop_id": "crp-cotton",
+      "quantity": 70,
+      "asking_price": 8093,
+      "district": "Mirpur Khas",
+      "grade": "B",
+      "available_from": "2026-11-06",
+      "status": "Active"
+    },
+    {
+      "id": "lst-012",
+      "user_id": "usr-4",
+      "crop_id": "crp-sugarcane",
+      "quantity": 75,
+      "asking_price": 897,
+      "district": "Nawabshah",
+      "grade": "C",
+      "available_from": "2026-11-07",
+      "status": "Active"
+    }
+  ],
+  "alerts": [
+    {
+      "id": "alt-1",
+      "user_id": "usr-1",
+      "crop_id": "crp-wheat",
+      "market_id": "mkt-hyd",
+      "condition": "Above",
+      "target_price": 3953,
+      "active_status": true
+    },
+    {
+      "id": "alt-2",
+      "user_id": "usr-2",
+      "crop_id": "crp-rice",
+      "market_id": "mkt-skr",
+      "condition": "Below",
+      "target_price": 4700,
+      "active_status": true
+    },
+    {
+      "id": "alt-3",
+      "user_id": "usr-1",
+      "crop_id": "crp-cotton",
+      "market_id": "mkt-khi",
+      "condition": "Above",
+      "target_price": 9000,
+      "active_status": true
+    },
+    {
+      "id": "alt-4",
+      "user_id": "usr-4",
+      "crop_id": "crp-onion",
+      "market_id": "mkt-hyd",
+      "condition": "Below",
+      "target_price": 2500,
+      "active_status": false
+    },
+    {
+      "id": "alt-5",
+      "user_id": "usr-1",
+      "crop_id": "crp-mango",
+      "market_id": "mkt-khi",
+      "condition": "Above",
+      "target_price": 8000,
+      "active_status": true
+    }
+  ]
+}
