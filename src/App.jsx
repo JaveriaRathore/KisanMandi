@@ -17,7 +17,7 @@ export function App() {
   return (
     <AuthProvider>
       <AlertProvider>
-        <BrowserRouter>
+        <BrowserRouter basename="/KisanMandi">
           <Routes>
             <Route path="/" element={<Layout />}>
               <Route index element={<PricesPage />} />
